@@ -1,8 +1,7 @@
 dotnet-pre-commit-mirror-maker
 ==============================
 
-Scripts for creating [pre-commit](https://pre-commit.com) /
-[prek](https://github.com/j178/prek) mirror repositories for dotnet tools
+Scripts for creating [prek](https://github.com/j178/prek) mirror repositories for dotnet tools
 that do not ship their own `.pre-commit-hooks.yaml`.
 
 Forked from [pre-commit-mirror-maker](https://github.com/pre-commit/pre-commit-mirror-maker)
